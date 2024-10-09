@@ -11,39 +11,39 @@ const Skills = () => {
                         <div className='bg-[#0f072e8a] rounded-xl m-2 p-2 mt-0 rounded-t-none'>
                             <ul className='grid grid-cols-3 gap-3'>
                                 <li className='flex flex-col items-center'>
-                                    <img src="/HTML.png" alt="Html" width={100} height={100} />
+                                    <img src="./Images/HTML.png" alt="Html" width={100} height={100} />
                                     <h4 className='font-semibold'>HTML</h4>
                                 </li>
                                 <li className='flex flex-col items-center'>
-                                    <img src="/CSS.png" alt="Css" width={100} height={100} />
+                                    <img src="./Images/CSS.png" alt="Css" width={100} height={100} />
                                     <h4 className='font-semibold'>CSS</h4>
                                 </li>
                                 <li className='flex flex-col items-center'>
-                                    <img src="/JavaScript.png" alt="JS" width={100} height={100} />
+                                    <img src="./Images/JavaScript.png" alt="JS" width={100} height={100} />
                                     <h4 className='font-semibold'>JavaScript</h4>
                                 </li>
                                 <li className='flex flex-col items-center'>
-                                    <img src="/Bootstrap.png" alt="BootStrap" width={100} height={100} />
+                                    <img src="./Images/Bootstrap.png" alt="BootStrap" width={100} height={100} />
                                     <h4 className='font-semibold'>BootStrap</h4>
                                 </li>
                                 <li className='flex flex-col items-center'>
-                                    <img src="/Tailwind.png" alt="Tailwind-css" width={100} height={100} />
+                                    <img src="./Images/Tailwind.png" alt="Tailwind-css" width={100} height={100} />
                                     <h4 className='font-semibold'>Tailwind CSS</h4>
                                 </li>
                                 <li className='flex flex-col items-center'>
-                                    <img src="/Node.png" alt="Node" width={100} height={100} />
+                                    <img src="./Images/Node.png" alt="Node" width={100} height={100} />
                                     <h4 className='font-semibold'>Node.js</h4>
                                 </li>
                                 <li className='flex flex-col items-center'>
-                                    <img src="/Express.png" alt="Express" width={100} height={100} />
+                                    <img src="./Images/Express.png" alt="Express" width={100} height={100} />
                                     <h4 className='font-semibold'>Express</h4>
                                 </li>
                                 <li className='flex flex-col items-center'>
-                                    <img src="/React.png" alt="React" width={100} height={100} />
+                                    <img src="./Images/React.png" alt="React" width={100} height={100} />
                                     <h4 className='font-semibold'>React</h4>
                                 </li>
                                 <li className='flex flex-col items-center'>
-                                    <img src="/Next.png" alt="Next" width={100} height={100} />
+                                    <img src="./Images/Next.png" alt="Next" width={100} height={100} />
                                     <h4 className='font-semibold'>Next.js</h4>
                                 </li>
                             </ul>
@@ -55,23 +55,23 @@ const Skills = () => {
                         <div className='bg-[#0f072e8a] rounded-xl m-2 p-2 mt-0 rounded-t-none'>
                             <ul className='grid grid-cols-3 gap-3'>
                                 <li className='flex flex-col items-center'>
-                                    <img src="/communication.png" alt="Communication" width={100} height={100} />
+                                    <img src="./Images/communication.png" alt="Communication" width={100} height={100} />
                                     <h4 className='font-semibold'>Communication</h4>
                                 </li>
                                 <li className='flex flex-col items-center'>
-                                    <img src="/adaptation.png" alt="Adaptation" width={100} height={100} />
+                                    <img src="./Images/adaptation.png" alt="Adaptation" width={100} height={100} />
                                     <h4 className='font-semibold'>Adaptation</h4>
                                 </li>
                                 <li className='flex flex-col items-center'>
-                                    <img src="/creative.png" alt="Creative" width={100} height={100} />
+                                    <img src="./Images/creative.png" alt="Creative" width={100} height={100} />
                                     <h4 className='font-semibold'>Creative</h4>
                                 </li>
                                 <li className='flex flex-col items-center'>
-                                    <img src="/success.png" alt="Communication" width={100} height={100} />
+                                    <img src="./Images/success.png" alt="Communication" width={100} height={100} />
                                     <h4 className='font-semibold'>Learning & Development</h4>
                                 </li>
                                 <li className='flex flex-col items-center'>
-                                    <img src="/listening.png" alt="Listening" width={100} height={100} />
+                                    <img src="./Images/listening.png" alt="Listening" width={100} height={100} />
                                     <h4 className='font-semibold'>Listening</h4>
                                 </li>
                             </ul>

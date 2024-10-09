@@ -6,7 +6,7 @@ const Education = () => {
             <div className=' mx-auto w-3/4 my-16'>
                 <div className='flex justify-center gap-2 my-5'>
                     <h1 className='text-3xl font-bold underline flex'>Education</h1>
-                    <img src="/education.png" alt="education" width={30} />
+                    <img src="./Images/education.png" alt="education" width={30} />
                 </div>
                 <div className='flex md:justify-between md:flex-row flex-col gap-1 rounded-xl shadow-[0_0_5px_3px_rgba(99,199,232,0.5)]'>
                     <div className='p-2 w-full'>

@@ -8,7 +8,7 @@ const Project = () => {
           <div>
             <div className='flex justify-center bg-blue-950 my-3 rounded-xl rounded-b-none mb-0 py-2 gap-2'>
               <h2 className='text-2xl font-bold'> ● <span className='underline'> Internship</span></h2>
-              <img src="/internship.png" alt="internship" width={35} />
+              <img src="./Images/internship.png" alt="internship" width={35} />
             </div>
             <h4 className='flex md:flex-row flex-col md:justify-around items-center text-lg font-semibold rounded-xl bg-[#0606268a] p-2 rounded-t-none'> 
               <span className='my-3 md:my-0'> Project : THE PET SHOP </span><span><i>18/04/2024 - 18/05/2024</i> </span></h4>
@@ -18,7 +18,7 @@ const Project = () => {
           <div className='w-full'>
             <div className='flex gap-2 justify-center py-2 bg-blue-950 rounded-xl rounded-b-none mb-0 my-3'>
               <h2 className='text-2xl font-bold'> ● <span className='underline'>Projects</span></h2>
-              <img src="/project.png" alt="project" width={30} />
+              <img src="./Images/project.png" alt="project" width={30} />
             </div>
             <ul className='flex flex-col gap-2 w-full bg-[#142548a4] p-1'>
               <li className='bg-[#0000008a] p-2 rounded-xl'>
@@ -51,7 +51,7 @@ const Project = () => {
           <div className='w-full'>
             <div className='flex gap-2 justify-center py-2 bg-blue-950 rounded-xl rounded-b-none mb-0 my-3'>
               <h2 className='text-2xl font-bold'> ● <span className='underline'>Skills used</span></h2>
-              <img src="/skill.png" alt="project" width={35} />
+              <img src="./Images/skill.png" alt="project" width={35} />
             </div>
             <ul className='flex flex-col gap-2 w-full bg-[#142548a4] p-1'>
               <li className='bg-[#0000008a] p-2 rounded-xl'>
